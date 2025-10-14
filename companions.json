@@ -13,7 +13,7 @@
       "life": 4,
       "level": 11,
       "modifier": "Loot Goblin",
-      "relics": ["Gilded + CC", "Gilded + CC", "Bonus Gilded", "Phoenix"],
+      "relics": ["Gilded + Companion Challenge", "Gilded + CC", "Bonus Gilded", "Phoenix"],
       "trails": ["Orange Stars", "-", "-"]
     },
     "Whiskerella": {
@@ -26,6 +26,7 @@
     }
   }
 }
+
 
 
 
