@@ -7,6 +7,22 @@
       "modifier": "Swift Paws",
       "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
       "trails": ["Sparkle", "Shadow", "Rainbow"]
+    },
+    "ViewerBob": {
+      "minecraft_name": "BobTheBlock",
+      "life": 2,
+      "level": 7,
+      "modifier": "Clumsy Tail",
+      "relics": ["Old Bone", "Rusty Collar", "Fish Token", "Lost Map"],
+      "trails": ["Dust", "Echo", "Mist"]
+    },
+    "CatQueen": {
+      "minecraft_name": "Whiskerella",
+      "life": 4,
+      "level": 15,
+      "modifier": "Night Vision",
+      "relics": ["Moon Bell", "Silver Claw", "Star Pendant", "Mystic Yarn"],
+      "trails": ["Moonlight", "Starlight", "Shadow"]
     }
   }
 }
