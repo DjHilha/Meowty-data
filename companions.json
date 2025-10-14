@@ -23,9 +23,162 @@
       "modifier": "Night Vision",
       "relics": ["Moon Bell", "Silver Claw", "Star Pendant", "Mystic Yarn"],
       "trails": ["Moonlight", "Starlight", "Shadow"]
-    }
+    },
+    "Unkool_Dad": {
+      "minecraft_name": "Unkool_Dad",
+      "life": 1,
+      "level": 2,
+      "modifier": "Coin Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "IceDagger_": {
+      "minecraft_name": "IceDagger_",
+      "life": 1,
+      "level": 3,
+      "modifier": "Nova Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "zombihuntress": {
+      "minecraft_name": "zombihuntress",
+      "life": 1,
+      "level": 1,
+      "modifier": "Champions Domain",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Litago89": {
+      "minecraft_name": "Litago89",
+      "life": 1,
+      "level": 3,
+      "modifier": "Coin Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Alphee31": {
+      "minecraft_name": "Alphee31",
+      "life": 1,
+      "level": 2,
+      "modifier": "Coin Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "DiamondGamerAsh": {
+      "minecraft_name": "DiamondGamerAsh",
+      "life": 1,
+      "level": 1,
+      "modifier": "Champions Domain",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Goldburn": {
+      "minecraft_name": "Goldburn",
+      "life": 1,
+      "level": 1,
+      "modifier": "Door Hunter",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Ahmad": {
+      "minecraft_name": "Ahmad",
+      "life": 1,
+      "level": 2,
+      "modifier": "Ultimate Regeneration",
+      "relics": ["Gilded + Companion's Challenge", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Sam858i": {
+      "minecraft_name": "Sam858i",
+      "life": 1,
+      "level": 2,
+      "modifier": "Overpower",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "SoulfulMarch": {
+      "minecraft_name": "SoulfulMarch",
+      "life": 1,
+      "level": 3,
+      "modifier": "Nova Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Halosiapaage": {
+      "minecraft_name": "Halosiapaage",
+      "life": 1,
+      "level": 2,
+      "modifier": "Hunterino",
+      "relics": ["Gilded + Companion's Challenge", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "QueenofDarknessq": {
+      "minecraft_name": "QueenofDarknessq",
+      "life": 1,
+      "level": 3,
+      "modifier": "Glued Mobs",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "littlepepperbutt": {
+      "minecraft_name": "littlepepperbutt",
+      "life": 1,
+      "level": 1,
+      "modifier": "Lunar",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "KingoooOrigin": {
+      "minecraft_name": "KingoooOrigin",
+      "life": 1,
+      "level": 2,
+      "modifier": "Nova Explosion",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "HunterZoldyck": {
+      "minecraft_name": "HunterZoldyck",
+      "life": 1,
+      "level": 1,
+      "modifier": "Loot Goblin",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "manley_craft": {
+      "minecraft_name": "manley_craft",
+      "life": 1,
+      "level": 1,
+      "modifier": "Totemic",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "FutureImagineer": {
+      "minecraft_name": "FutureImagineer",
+      "life": 1,
+      "level": 3,
+      "modifier": "Loot Goblin",
+      "relics": ["Living + Companion's Challenge", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "QueenOfHarts78": {
+      "minecraft_name": "QueenOfHarts78",
+      "life": 1,
+      "level": 1,
+      "modifier": "Hunterino",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
+    "Guybrrush": {
+      "minecraft_name": "Guybrrush",
+      "life": 1,
+      "level": 2,
+      "modifier": "Hunterino",
+      "relics": ["-", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
+    },
   }
 }
+
 
 
 
