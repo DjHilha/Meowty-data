@@ -3,7 +3,7 @@
     "Grim_Stoner": {
       "minecraft_name": "Grim_Stoner",
       "life": 2,
-      "level": 4,
+      "level": 7,
       "modifier": "Ultimate Regeneration",
       "relics": ["Living", "-", "-", "-"],
       "trails": ["-", "-", "-"]
@@ -26,5 +26,6 @@
     }
   }
 }
+
 
 
