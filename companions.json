@@ -8,11 +8,11 @@
       "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
       "trails": ["Sparkle", "Shadow", "Rainbow"]
     },
-    "ViewerBob": {
-      "minecraft_name": "BobTheBlock",
+    "DjHilha": {
+      "minecraft_name": "Hilha",
       "life": 2,
       "level": 7,
-      "modifier": "Clumsy Tail",
+      "modifier": "Loot_Goblin",
       "relics": ["Old Bone", "Rusty Collar", "Fish Token", "Lost Map"],
       "trails": ["Dust", "Echo", "Mist"]
     },
@@ -26,3 +26,4 @@
     }
   }
 }
+
