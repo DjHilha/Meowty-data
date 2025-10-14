@@ -1,0 +1,12 @@
+{
+  "viewers": {
+    "testviewer": {
+      "minecraft_name": "Hilha",
+      "life": 3,
+      "level": 12,
+      "modifier": "Swift Paws",
+      "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
+      "trails": ["Sparkle", "Shadow", "Rainbow"]
+    }
+  }
+}
