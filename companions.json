@@ -8,13 +8,13 @@
       "relics": ["Living", "-", "-", "-"],
       "trails": ["-", "-", "-"]
     },
-    "BobTheBlock": {
-      "minecraft_name": "BobTheBlock",
-      "life": 2,
-      "level": 7,
-      "modifier": "Clumsy Tail",
-      "relics": ["Old Bone", "Rusty Collar", "Fish Token", "Lost Map"],
-      "trails": ["Dust", "Echo", "Mist"]
+    "Hilha": {
+      "minecraft_name": "Hilha",
+      "life": 4,
+      "level": 11,
+      "modifier": "Loot Goblin",
+      "relics": ["Gilded + CC", "Gilded + CC", "Bonus Gilded", "Phoenix"],
+      "trails": ["Orange Stars", "-", "-"]
     },
     "Whiskerella": {
       "minecraft_name": "Whiskerella",
@@ -26,6 +26,7 @@
     }
   }
 }
+
 
 
 
