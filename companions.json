@@ -8,7 +8,7 @@
       "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
       "trails": ["Sparkle", "Shadow", "Rainbow"]
     },
-    "DjHilha": {
+    "Hilha": {
       "minecraft_name": "Hilha",
       "life": 2,
       "level": 7,
@@ -26,5 +26,6 @@
     }
   }
 }
+
 
 
