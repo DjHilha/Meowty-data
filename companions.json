@@ -16,8 +16,8 @@
       "relics": ["Old Bone", "Rusty Collar", "Fish Token", "Lost Map"],
       "trails": ["Dust", "Echo", "Mist"]
     },
-    "CatQueen": {
-      "minecraft_name": "Whiskerella",
+    "Grim_Stoner": {
+      "minecraft_name": "Grim_Stoner",
       "life": 4,
       "level": 15,
       "modifier": "Night Vision",
@@ -26,4 +26,5 @@
     }
   }
 }
+
 
