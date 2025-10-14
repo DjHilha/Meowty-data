@@ -1,12 +1,12 @@
 {
   "viewers": {
-    "Hilha": {
-      "minecraft_name": "Hilha",
-      "life": 3,
-      "level": 12,
-      "modifier": "Swift Paws",
-      "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
-      "trails": ["Sparkle", "Shadow", "Rainbow"]
+    "Grim_Stoner": {
+      "minecraft_name": "Grim_Stoner",
+      "life": 2,
+      "level": 3,
+      "modifier": "Ultimate Regeneration",
+      "relics": ["Living", "-", "-", "-"],
+      "trails": ["-", "-", "-"]
     },
     "BobTheBlock": {
       "minecraft_name": "BobTheBlock",
@@ -26,3 +26,4 @@
     }
   }
 }
+
