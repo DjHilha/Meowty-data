@@ -1,6 +1,6 @@
 {
   "viewers": {
-    "testviewer": {
+    "Hilha": {
       "minecraft_name": "Hilha",
       "life": 3,
       "level": 12,
@@ -8,16 +8,16 @@
       "relics": ["Golden Whisker", "Sea Fang", "Ancient Bell", "Mystic Collar"],
       "trails": ["Sparkle", "Shadow", "Rainbow"]
     },
-    "Hilha": {
-      "minecraft_name": "Hilha",
+    "BobTheBlock": {
+      "minecraft_name": "BobTheBlock",
       "life": 2,
       "level": 7,
-      "modifier": "Loot_Goblin",
+      "modifier": "Clumsy Tail",
       "relics": ["Old Bone", "Rusty Collar", "Fish Token", "Lost Map"],
       "trails": ["Dust", "Echo", "Mist"]
     },
-    "Grim_Stoner": {
-      "minecraft_name": "Grim_Stoner",
+    "Whiskerella": {
+      "minecraft_name": "Whiskerella",
       "life": 4,
       "level": 15,
       "modifier": "Night Vision",
@@ -26,6 +26,3 @@
     }
   }
 }
-
-
-
