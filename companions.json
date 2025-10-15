@@ -13,8 +13,8 @@
       "life": 2,
       "level": 9,
       "modifier": "Loot Goblin",
-      "relics": ["Gilded + Companion Challenge", "Bonus Gilded + Companion Challenge", "+", "Unlocks at level 10"],
-      "trails": ["Orange Stars", "+", "Unlocks at level 10"]
+      "relics": ["Gilded + Companion Challenge", "+", "+", "Unlocks at level 10"],
+      "trails": ["+", "+", "Unlocks at level 10"]
     },
     "Whiskerella": {
       "minecraft_name": "Whiskerella",
@@ -178,6 +178,7 @@
     }
   }
 }
+
 
 
 
