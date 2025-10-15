@@ -6,15 +6,15 @@
       "level": 4,
       "modifier": "Ultimate Regeneration",
       "relics": ["Living", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Purple Star", "Unlocks at level 6", "Unlocks at level 10"]
+      "trails": ["Green Vault", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Hilha": {
       "minecraft_name": "Hilha",
-      "life": 0,
-      "level": 11,
+      "life": 2,
+      "level": 9,
       "modifier": "Loot Goblin",
-      "relics": ["Gilded + Companion Challenge", "Bonus Gilded + Companion Challenge", "Bonus Gilded", "Phoenix + Companion Challenge"],
-      "trails": ["Orange Stars", "-", "-"]
+      "relics": ["Gilded + Companion Challenge", "Bonus Gilded + Companion Challenge", "+", "Unlocks at level 10"],
+      "trails": ["Orange Stars", "+", "Unlocks at level 10"]
     },
     "Whiskerella": {
       "minecraft_name": "Whiskerella",
@@ -22,162 +22,163 @@
       "level": 15,
       "modifier": "Night Vision",
       "relics": ["Moon Bell", "Silver Claw", "Star Pendant", "Mystic Yarn"],
-      "trails": ["Moonlight", "Starlight", "Shadow"]
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Unkool_Dad": {
       "minecraft_name": "Unkool_Dad",
       "life": 1,
       "level": 2,
       "modifier": "Coin Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "IceDagger_": {
       "minecraft_name": "IceDagger_",
       "life": 1,
       "level": 3,
       "modifier": "Nova Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "zombihuntress": {
       "minecraft_name": "zombihuntress",
       "life": 1,
       "level": 1,
       "modifier": "Champions Domain",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Litago89": {
       "minecraft_name": "Litago89",
       "life": 1,
       "level": 3,
       "modifier": "Coin Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Alphee31": {
       "minecraft_name": "Alphee31",
       "life": 1,
       "level": 2,
       "modifier": "Coin Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "DiamondGamerAsh": {
       "minecraft_name": "DiamondGamerAsh",
       "life": 1,
       "level": 1,
       "modifier": "Champions Domain",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Goldburn": {
       "minecraft_name": "Goldburn",
       "life": 1,
       "level": 1,
       "modifier": "Door Hunter",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Ahmad": {
       "minecraft_name": "Ahmad",
       "life": 1,
       "level": 2,
       "modifier": "Ultimate Regeneration",
-      "relics": ["Gilded + Companion's Challenge", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Gilded + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Sam858i": {
       "minecraft_name": "Sam858i",
       "life": 1,
       "level": 2,
       "modifier": "Overpower",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "SoulfulMarch": {
       "minecraft_name": "SoulfulMarch",
       "life": 1,
       "level": 3,
       "modifier": "Nova Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],,
+      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Halosiapaage": {
       "minecraft_name": "Halosiapaage",
       "life": 1,
       "level": 2,
       "modifier": "Hunterino",
-      "relics": ["Gilded + Companion's Challenge", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Gilded + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "QueenofDarknessq": {
       "minecraft_name": "QueenofDarknessq",
       "life": 1,
       "level": 3,
       "modifier": "Glued Mobs",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "littlepepperbutt": {
       "minecraft_name": "littlepepperbutt",
       "life": 1,
       "level": 1,
       "modifier": "Lunar",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "KingoooOrigin": {
       "minecraft_name": "KingoooOrigin",
       "life": 1,
       "level": 2,
       "modifier": "Nova Explosion",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HunterZoldyck": {
       "minecraft_name": "HunterZoldyck",
       "life": 1,
       "level": 1,
       "modifier": "Loot Goblin",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "manley_craft": {
       "minecraft_name": "manley_craft",
       "life": 1,
       "level": 1,
       "modifier": "Totemic",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "FutureImagineer": {
       "minecraft_name": "FutureImagineer",
       "life": 1,
       "level": 3,
       "modifier": "Loot Goblin",
-      "relics": ["Living + Companion's Challenge", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Living + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "QueenOfHarts78": {
       "minecraft_name": "QueenOfHarts78",
       "life": 1,
       "level": 1,
       "modifier": "Hunterino",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Guybrrush": {
       "minecraft_name": "Guybrrush",
       "life": 1,
       "level": 2,
       "modifier": "Hunterino",
-      "relics": ["-", "-", "-", "-"],
-      "trails": ["-", "-", "-"]
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
 }
+
 
 
 
