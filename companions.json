@@ -101,7 +101,7 @@
       "life": 1,
       "level": 3,
       "modifier": "Nova Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],,
+      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Halosiapaage": {
@@ -178,6 +178,7 @@
     }
   }
 }
+
 
 
 
