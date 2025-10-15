@@ -75,10 +75,10 @@
     "Ahmad": {
       "minecraft_name": "Ahmad",
       "life": 1,
-      "level": 2,
+      "level": 3,
       "modifier": "Ultimate Regeneration",
       "relics": ["Gilded + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Sam858i": {
       "minecraft_name": "Sam858i",
@@ -179,9 +179,9 @@
     "ReyStorm75": {
       "minecraft_name": "ReyStorm75",
       "life": 1,
-      "level": 1,
+      "level": 2,
       "modifier": "Lunar",
-      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
