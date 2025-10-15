@@ -6,7 +6,7 @@
       "level": 4,
       "modifier": "Ultimate Regeneration",
       "relics": ["Living", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Purple Star", "-", "-"]
+      "trails": ["Purple Star", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Hilha": {
       "minecraft_name": "Hilha",
@@ -178,6 +178,7 @@
     }
   }
 }
+
 
 
 
