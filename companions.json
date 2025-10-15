@@ -29,7 +29,7 @@
       "life": 1,
       "level": 2,
       "modifier": "Coin Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "IceDagger_": {
@@ -37,8 +37,8 @@
       "life": 1,
       "level": 3,
       "modifier": "Nova Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "zombihuntress": {
       "minecraft_name": "zombihuntress",
@@ -53,15 +53,15 @@
       "life": 1,
       "level": 3,
       "modifier": "Coin Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Alphee31": {
       "minecraft_name": "Alphee31",
       "life": 1,
       "level": 2,
       "modifier": "Coin Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "DiamondGamerAsh": {
@@ -93,7 +93,7 @@
       "life": 1,
       "level": 2,
       "modifier": "Overpower",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "SoulfulMarch": {
@@ -101,8 +101,8 @@
       "life": 1,
       "level": 3,
       "modifier": "Nova Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Halosiapaage": {
       "minecraft_name": "Halosiapaage",
@@ -117,8 +117,8 @@
       "life": 1,
       "level": 3,
       "modifier": "Glued Mobs",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "littlepepperbutt": {
       "minecraft_name": "littlepepperbutt",
@@ -133,7 +133,7 @@
       "life": 1,
       "level": 2,
       "modifier": "Nova Explosion",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HunterZoldyck": {
@@ -158,7 +158,7 @@
       "level": 3,
       "modifier": "Loot Goblin",
       "relics": ["Living + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["-", "Unlocks at level 6", "Unlocks at level 10"]
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "QueenOfHarts78": {
       "minecraft_name": "QueenOfHarts78",
@@ -173,11 +173,12 @@
       "life": 1,
       "level": 2,
       "modifier": "Hunterino",
-      "relics": ["-", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
 }
+
 
 
 
