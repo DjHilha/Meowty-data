@@ -10,7 +10,7 @@
     },
     "Hilha": {
       "minecraft_name": "Hilha",
-      "life": 4,
+      "life": 0,
       "level": 11,
       "modifier": "Loot Goblin",
       "relics": ["Gilded + Companion Challenge", "Bonus Gilded + Companion Challenge", "Bonus Gilded", "Phoenix + Companion Challenge"],
@@ -178,6 +178,7 @@
     }
   }
 }
+
 
 
 
