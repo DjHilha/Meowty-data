@@ -10,11 +10,11 @@
     },
     "Hilha": {
       "minecraft_name": "Hilha",
-      "life": 0,
-      "level": 9,
+      "life": 4,
+      "level": 10,
       "modifier": "Loot Goblin",
-      "relics": ["Gilded + Companion Challenge", "+", "+", "Unlocks at level 10"],
-      "trails": ["+", "+", "Unlocks at level 10"]
+      "relics": ["Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge"],
+      "trails": ["Orange Dust", "Orange Vault", "Orange Hearts"]
     },
     "Unkool_Dad": {
       "minecraft_name": "Unkool_Dad",
