@@ -13,7 +13,7 @@
       "life": 4,
       "level": 10,
       "modifier": "Loot Goblin",
-      "relics": ["Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge"],
+      "relics": ["Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "+"],
       "trails": ["Orange Dust", "Orange Vault", "Orange Hearts"]
     },
     "Unkool_Dad": {
@@ -78,11 +78,11 @@
       "level": 3,
       "modifier": "Ultimate Regeneration",
       "relics": ["Gilded + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+      "trails": ["Purple Dust", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Sam858i": {
       "minecraft_name": "Sam858i",
-      "life": 1,
+      "life": 0,
       "level": 2,
       "modifier": "Overpower",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
@@ -114,7 +114,7 @@
     },
     "littlepepperbutt": {
       "minecraft_name": "littlepepperbutt",
-      "life": 1,
+      "life": 0,
       "level": 1,
       "modifier": "Lunar",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
