@@ -175,22 +175,14 @@
       "modifier": "Hunterino",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+        "Mommynikki28": {
+      "minecraft_name": "Mommynikki28",
+      "life": 1,
+      "level": 1,
+      "modifier": "Totemic",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
