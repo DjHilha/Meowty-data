@@ -1,12 +1,12 @@
 {
   "viewers": {
-    "Hilha": {
-      "minecraft_name": "Hilha",
-      "life": 4,
-      "level": 10,
-      "modifier": "Loot Goblin",
-      "relics": ["Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "+"],
-      "trails": ["Orange Dust", "Orange Vault", "Orange Hearts"]
+    "name": {
+      "minecraft_name": "name",
+      "life": 1,
+      "level": 1,
+      "modifier": "modifier",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HalosiaPaage": {
       "minecraft_name": "HalosiaPaage",
@@ -26,6 +26,14 @@
     },
     "Litago89": {
       "minecraft_name": "Litago89",
+      "life": 1,
+      "level": 1,
+      "modifier": "Loot Goblin",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Grim_Stoner": {
+      "minecraft_name": "Grim_Stoner",
       "life": 1,
       "level": 1,
       "modifier": "Loot Goblin",
