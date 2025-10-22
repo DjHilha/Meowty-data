@@ -1,13 +1,5 @@
 {
   "viewers": {
-    "test": {
-      "minecraft_name": "test",
-      "life": 2,
-      "level": 4,
-      "modifier": "Rock Solid",
-      "relics": ["Living", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Green Vault", "Unlocks at level 6", "Unlocks at level 10"]
-    },
     "Hilha": {
       "minecraft_name": "Hilha",
       "life": 4,
@@ -15,7 +7,30 @@
       "modifier": "Loot Goblin",
       "relics": ["Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "Gilded + Bonus Gilded + Companion Challenge", "+"],
       "trails": ["Orange Dust", "Orange Vault", "Orange Hearts"]
+    },
+    "HalosiaPaage": {
+      "minecraft_name": "HalosiaPaage",
+      "life": 1,
+      "level": 1,
+      "modifier": "Nova Explosion",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "ReyStorm75": {
+      "minecraft_name": "ReyStorm75",
+      "life": 1,
+      "level": 1,
+      "modifier": "Lunar",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Litago89": {
+      "minecraft_name": "Litago89",
+      "life": 1,
+      "level": 1,
+      "modifier": "Loot Goblin",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
 }
-
