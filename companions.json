@@ -1,10 +1,10 @@
 {
   "viewers": {
-    "name": {
-      "minecraft_name": "name",
+    "Hilha": {
+      "minecraft_name": "Hilha",
       "life": 1,
       "level": 1,
-      "modifier": "modifier",
+      "modifier": "Rock Solid",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
@@ -24,7 +24,7 @@
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
-    "Litago89": {
+    "Litagp89": {
       "minecraft_name": "Litago89",
       "life": 1,
       "level": 2,
@@ -44,7 +44,7 @@
       "minecraft_name": "Sam858i",
       "life": 1,
       "level": 1,
-      "modifier": "Overepower",
+      "modifier": "Overpower",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
@@ -65,7 +65,7 @@
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Littlepepperbutt": {
-      "minecraft_name": "Littleperpperbutt",
+      "minecraft_name": "Littlepepperbutt",
       "life": 1,
       "level": 1,
       "modifier": "Totemic",
@@ -73,3 +73,4 @@
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
+}
