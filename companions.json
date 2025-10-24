@@ -35,19 +35,19 @@
     "Grim_Stoner": {
       "minecraft_name": "Grim_Stoner",
       "life": 1,
-      "level": 1,
+      "level": 2,
       "modifier": "Rock Solid",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
-      "Sam858i": {
-        "minecraft_name": "Sam858i",
-        "life": 1,
-        "level": 1,
-        "modifier": "Overpower",
-        "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-        "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
-  },
+    "Sam858i": {
+      "minecraft_name": "Sam858i",
+      "life": 1,
+      "level": 1,
+      "modifier": "Overepower",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
     "InfernalHarmony": {
       "minecraft_name": "InfernalHarmony",
       "life": 1,
@@ -65,7 +65,7 @@
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Littlepepperbutt": {
-      "minecraft_name": "Littlepepperbutt",
+      "minecraft_name": "Littleperpperbutt",
       "life": 1,
       "level": 1,
       "modifier": "Totemic",
