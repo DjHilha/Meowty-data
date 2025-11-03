@@ -29,16 +29,16 @@
       "life": 2,
       "level": 4,
       "modifier": "Loot Goblin",
-      "relics": ["Wooden", "Plentiful", "Gilded", "Wooden"],
-      "trails": ["Lime Vault Trail", "+", "+"]
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Grim_Stoner": {
       "minecraft_name": "Grim_Stoner",
-      "life": 1,
-      "level": 2,
+      "life": 5,
+      "level": 12,
       "modifier": "Rock Solid",
-      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["Wooden", "Plentiful", "Gilded", "Wooden"],
+      "trails": ["Lime Vault Trail", "+", "+"]
     },
     "Sam858i": {
       "minecraft_name": "Sam858i",
