@@ -38,7 +38,7 @@
       "level": 12,
       "modifier": "Rock Solid",
       "relics": ["Wooden", "Plentiful", "Gilded", "Wooden"],
-      "trails": ["Lime Vault Trail", "+", "+"]
+      "trails": ["Lime Vault Trail", "Lime Star Trail", "Lime Heart Trail"]
     },
     "Sam858i": {
       "minecraft_name": "Sam858i",
@@ -102,7 +102,7 @@
       "level": 12,
       "modifier": "Pylon Hunter",
       "relics": ["Ornate + Companion's Challenge", "Bonus Gilded + Ornate + Companion's Challenge", "Living + Companion's Challenge", "+"],
-      "trails": ["+", "+", "+"]
+      "trails": ["Red Dust Trail", "Lime Star Trail", "+"]
     },
     "Gooos88": {
       "minecraft_name": "Gooos88",
@@ -141,6 +141,14 @@
       "life": 1,
       "level": 1,
       "modifier": "Coin Explosion",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Underligtype": {
+      "minecraft_name": "Underlig",
+      "life": 1,
+      "level": 1,
+      "modifier": "Nova Explosion",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
