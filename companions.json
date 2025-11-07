@@ -159,6 +159,14 @@
       "modifier": "Hunterino",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Invisdragon": {
+      "minecraft_name": "Invisdragon",
+      "life": 1,
+      "level": 2,
+      "modifier": "Coin Explosion",
+      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     }
   }
 }
