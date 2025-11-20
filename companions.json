@@ -43,15 +43,15 @@
     "Sam858i": {
       "minecraft_name": "Sam858i",
       "life": 2,
-      "level": 5,
+      "level": 7,
       "modifier": "Overpower",
       "relics": ["Plentiful + Companion's Challenge", "+", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "InfernalHarmony": {
       "minecraft_name": "InfernalHarmony",
-      "life": 1,
-      "level": 1,
+      "life": 2,
+      "level": 6,
       "modifier": "Totemic",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
@@ -83,7 +83,7 @@
     "FutureImagineer": {
       "minecraft_name": "FutureImagineer",
       "life": 1,
-      "level": 1,
+      "level": 2,
       "modifier": "Coin Explosion",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
@@ -98,7 +98,7 @@
     },
     "itsmontey": {
       "minecraft_name": "ootsuboin",
-      "life": 1,
+      "life": 5,
       "level": 12,
       "modifier": "Pylon Hunter",
       "relics": ["Ornate + Companion's Challenge", "Bonus Gilded + Ornate + Companion's Challenge", "Living + Companion's Challenge", "+"],
@@ -130,8 +130,8 @@
     },
     "Alphee31": {
       "minecraft_name": "Alphee31",
-      "life": 1,
-      "level": 1,
+      "life": 4,
+      "level": 9,
       "modifier": "Nova Explosion",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
@@ -147,7 +147,7 @@
     "Underligtype": {
       "minecraft_name": "Underlig",
       "life": 1,
-      "level": 1,
+      "level": 2,
       "modifier": "Nova Explosion",
       "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
@@ -162,8 +162,8 @@
     },
     "Invisdragon": {
       "minecraft_name": "Invisdragon",
-      "life": 1,
-      "level": 2,
+      "life": 2,
+      "level": 5,
       "modifier": "Coin Explosion",
       "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
