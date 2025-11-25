@@ -4,9 +4,9 @@
       "minecraft_name": "Hilha",
       "life": 1,
       "level": 1,
-      "modifier": "Rock Solid",
-      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "modifier": "Ultimate Regeneration",
+      "relics": ["Ornate + Companion's Challenge", "Bonus Gilded + Living + Companion's Challenge", "Phoenix + Extended + Companion's Challenge", "Bonus Gilded + Wealthy + Companion's Challenge"],
+      "trails": ["Orange Hearts Trail", "Orange Star Trail", "+"]
     },
     "HalosiaPaage": {
       "minecraft_name": "HalosiaPaage",
@@ -102,7 +102,7 @@
       "level": 12,
       "modifier": "Pylon Hunter",
       "relics": ["Ornate + Companion's Challenge", "Bonus Gilded + Ornate + Companion's Challenge", "Living + Companion's Challenge", "+"],
-      "trails": ["Red Dust Trail", "Lime Star Trail", "+"]
+      "trails": ["Yellow Vault Trail", "Lime Star Trail", "Cyan Star Trail"]
     },
     "Gooos88": {
       "minecraft_name": "Gooos88",
@@ -116,7 +116,7 @@
       "minecraft_name": "Goldburn",
       "life": 2,
       "level": 5,
-      "modifier": "Lunar",
+      "modifier": "Hunterino",
       "relics": ["+", "+", "Unlocks at level 8", "Unlocks at level 10"],
       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
@@ -146,11 +146,11 @@
     },
     "Underligtype": {
       "minecraft_name": "Underlig",
-      "life": 1,
-      "level": 2,
-      "modifier": "Nova Explosion",
-      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "life": 2,
+      "level": 4,
+      "modifier": "Rock Solid",
+      "relics": ["Gilded + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "Icedagger_": {
       "minecraft_name": "Icedagger_",
@@ -165,8 +165,16 @@
       "life": 2,
       "level": 5,
       "modifier": "Coin Explosion",
-      "relics": ["+", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["Ornate + Companion's Challenge", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Dust Lime Trail", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "SlappyFruitJR": {
+      "minecraft_name": "SlappyFruitJR",
+      "life": 5,
+      "level": 10,
+      "modifier": "Overpower",
+      "relics": ["Plentiful + Companion's Challenge", "Plentiful + Companion's Challenge", "Plentiful + Companion's Challenge", "Plentiful + Companion's Challenge"],
+      "trails": ["+", "+", "+"]
     }
   }
 }
