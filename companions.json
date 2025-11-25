@@ -2,8 +2,8 @@
   "viewers": {
     "Hilha": {
       "minecraft_name": "Hilha",
-      "life": 1,
-      "level": 1,
+      "life": 5,
+      "level": 10,
       "modifier": "Ultimate Regeneration",
       "relics": ["Ornate + Companion's Challenge", "Bonus Gilded + Living + Companion's Challenge", "Phoenix + Extended + Companion's Challenge", "Bonus Gilded + Wealthy + Companion's Challenge"],
       "trails": ["Orange Hearts Trail", "Orange Star Trail", "+"]
