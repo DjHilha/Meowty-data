@@ -98,7 +98,7 @@
      },
      "Magdaluo": {
       "minecraft_name": "Magdaluo",
-      "life": 0,
+      "life": 1,
       "level": 1,
       "modifier": "Loot Goblin",
        "relics": ["Unlocks at level 2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
