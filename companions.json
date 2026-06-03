@@ -6,7 +6,7 @@
       "level": 5,
       "modifier": "Loot Goblin",
       "relics": ["Living x2 + Companion Challenge x2", "Living x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HalosiaPaage": {
       "minecraft_name": "HalosiaPaage",
@@ -102,7 +102,7 @@
       "level": 5,
       "modifier": "Loot Goblin",
        "relics": ["Gilded x2 + Companion Challenge x2", "Gilded x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
-       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
      },
      "Erionasplash": {
        "minecraft_name": "Erionasplash",
