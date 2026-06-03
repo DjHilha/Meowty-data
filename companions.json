@@ -2,10 +2,10 @@
   "viewers": {
     "Hilha": {
       "minecraft_name": "Hilha",
-      "life": 1,
-      "level": 1,
+      "life": 3,
+      "level": 5,
       "modifier": "Loot Goblin",
-      "relics": ["Unlocks at level 2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
+      "relics": ["Living x2 + Companion Challenge x2", "Living x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
       "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HalosiaPaage": {
@@ -98,10 +98,10 @@
      },
      "Magdaluo": {
       "minecraft_name": "Magdaluo",
-      "life": 1,
-      "level": 1,
+      "life": 4,
+      "level": 5,
       "modifier": "Loot Goblin",
-       "relics": ["Unlocks at level 2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
+       "relics": ["Gilded x2 + Companion Challenge x2", "Gilded x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
        "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
      },
      "Erionasplash": {
