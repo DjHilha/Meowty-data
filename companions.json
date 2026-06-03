@@ -66,19 +66,19 @@
     },
     "Aslakx": {
       "minecraft_name": "Aslakx",
-      "life": 1,
-      "level": 2,
+      "life": 3,
+      "level": 6,
       "modifier": "Daycare",
-      "relics": ["+", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
     },
     "Unkool_Dad": {
       "minecraft_name": "Unkool_Dad",
       "life": 3,
-      "level": 5,
+      "level": 7,
       "modifier": "Ultimate Regeneration",
-      "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
-      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+      "relics": ["+", "+", "+", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
     },
     "MommyNikki284": {
       "minecraft_name": "MommyNikki284",
@@ -107,9 +107,9 @@
      "Erionasplash": {
        "minecraft_name": "Erionasplash",
        "life": 3,
-       "level": 6,
+       "level": 7,
        "modifier": "Coin Explosion",
-       "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
+       "relics": ["+", "+", "+", "Unlocks at level 9"],
        "trails": ["+", "+", "Unlocks at level 10"]
      }
   }
