@@ -1,4 +1,5 @@
 {
-  "error": "No inventory/container found at -1404 69 111",
+  "blockEntityClass": "net.p3pp3rf1y.sophisticatedstorage.block.ChestBlockEntity",
+  "blockEntityNbt": "{ForgeCaps:{},id:\"sophisticatedstorage:chest\",packed:0b,storageWrapper:{accentColor:16351261,contents:{},mainColor:16351261,numberOfInventorySlots:27,numberOfUpgradeSlots:1,renderInfo:{upgradeItems:[{Count:1b,id:\"minecraft:air\"}]},sortBy:\"name\"},updateBlockRender:1b,x:-1404,y:69,z:111}",
   "viewers": {}
 }
