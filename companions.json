@@ -1,5 +1,17 @@
 {
-  "blockEntityClass": "hu.xabbes.companioncodex.companion.block.CompanionCodexBlockEntity",
-  "blockEntityNbt": "{ForgeCaps:{},Owner:[I;1279831781,405423685,-1596068944,568302063],OwnerName:\"Hilha\",id:\"companioncodex:companion_codex\",x:-1404,y:69,z:110}",
-  "viewers": {}
+  "viewers": {
+    "halosiapaage": {
+      "minecraft_name": "HalosiaPaage",
+      "pet_name": "Dylan\u0027s Penguin",
+      "level": 6,
+      "life": 3,
+      "modifier": "the_vault:lunar",
+      "series": "PET",
+      "pet_type": "dylan_penguin",
+      "vault_runs": 6,
+      "hatched_date": "2026-06-05",
+      "relics": [],
+      "trails": []
+    }
+  }
 }
