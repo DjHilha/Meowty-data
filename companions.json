@@ -12,6 +12,19 @@
       "hatched_date": "2026-06-05",
       "relics": [],
       "trails": []
+    },
+    "hilha": {
+      "minecraft_name": "Hilha",
+      "pet_name": "d_Luu",
+      "level": 1,
+      "life": 1,
+      "modifier": "the_vault:soul_fest",
+      "series": "LEGEND",
+      "pet_type": "Minion",
+      "vault_runs": 3,
+      "hatched_date": "2026-06-08",
+      "relics": [],
+      "trails": []
     }
   }
 }
