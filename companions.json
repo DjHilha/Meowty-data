@@ -1,43 +1,122 @@
 {
   "viewers": {
-    "aslakx": {
-      "minecraft_name": "Aslakx",
-      "pet_name": "Isgall85",
-      "level": 9,
-      "life": 4,
-      "modifier": "the_vault:loot_goblin",
-      "series": "LEGEND",
-      "pet_type": "minion",
-      "vault_runs": 16,
-      "hatched_date": "2026-05-29",
-      "relics": [],
-      "trails": []
-    },
-    "halosiapaage": {
-      "minecraft_name": "HalosiaPaage",
-      "pet_name": "Dylan\u0027s Penguin",
-      "level": 6,
-      "life": 3,
-      "modifier": "the_vault:lunar",
-      "series": "PET",
-      "pet_type": "dylan_penguin",
-      "vault_runs": 6,
-      "hatched_date": "2026-06-05",
-      "relics": [],
-      "trails": []
-    },
-    "hilha": {
+    "Hilha": {
       "minecraft_name": "Hilha",
-      "pet_name": "InfernalHarmony",
-      "level": 1,
+      "life": 3,
+      "level": 5,
+      "modifier": "Loot Goblin",
+      "relics": ["Living x2 + Companion Challenge x2", "Living x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "HalosiaPaage": {
+      "minecraft_name": "HalosiaPaage",
+      "life": 3,
+      "level": 6,
+      "modifier": "Coin Explosion",
+      "relics": ["Ornate x2 + Companion Challenge x2", "Ornate x2 + Companion Challenge x2", "Unlocks at level 8", "Unlocks at level 9"],
+      "trails": ["Orange Heart", "Purple Heart", "Unlocks at level 10"]
+    },
+    "LadyLilac84": {
+      "minecraft_name": "LadyLilac84",
+      "life": 3,
+      "level": 6,
+      "modifier": "Totemic",
+      "relics": ["Ornate x2 + Companion Challenge x2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
+    },
+    "Grim_Stoner": {
+      "minecraft_name": "Grim_Stoner",
+      "life": 4,
+      "level": 8,
+      "modifier": "Ultimate Regeneration",
+      "relics": ["Living x2 + Companion Challenge x2", "Wooden x2 + Companion Challenge x2 ", "Wealthy x2 +  Companion Challenge x2", "Unlocks at level 9"],
+      "trails": ["Lime Hearts", "Lime Vault","Unlocks at level 10"]
+    },
+    "QueenofHarts78": {
+      "minecraft_name": "QueenofHarts",
+      "life": 4,
+      "level": 8,
+      "modifier": "Loot Goblin",
+      "relics": ["Plentiful x4", "Bonus Ornate x7", "Ornate x2", "Bonus Living x2", "Companion Challenge x1"],
+      "trails": ["Red Vault", "+", "+"]
+    },
+    "Rhaw_G": {
+      "minecraft_name": "Rhaw_G",
+      "life": 3,
+      "level": 6,
+      "modifier": "Door Hunter",
+      "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
+    },
+    "InfernalHarmony": {
+      "minecraft_name": "InfernalHarmony",
       "life": 1,
-      "modifier": "the_vault:daycare",
-      "series": "LEGEND",
-      "pet_type": "minion",
-      "vault_runs": 2,
-      "hatched_date": "2026-05-18",
-      "relics": [],
-      "trails": []
-    }
+      "level": 1,
+      "modifier": "Daycare",
+      "relics": ["Unlocks at level 2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Underligtype": {
+      "minecraft_name": "Underlig",
+      "life": 1,
+      "level": 3,
+      "modifier": "Daycare",
+      "relics": ["+", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+    },
+    "Aslakx": {
+      "minecraft_name": "Aslakx",
+      "life": 3,
+      "level": 6,
+      "modifier": "Daycare",
+      "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
+    },
+    "Unkool_Dad": {
+      "minecraft_name": "Unkool_Dad",
+      "life": 3,
+      "level": 7,
+      "modifier": "Ultimate Regeneration",
+      "relics": ["+", "+", "+", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
+    },
+    "MommyNikki284": {
+      "minecraft_name": "MommyNikki284",
+      "life": 3,
+      "level": 7,
+      "modifier": "Lunar",
+      "relics": ["Ornate + Companion Challenge", "Ornate x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
+      "trails": ["+", "+", "Unlocks at level 10"]
+    },
+    "Aslakx": {
+      "minecraft_name": "Aslakx",
+      "life": 1,
+      "level": 1,
+      "modifier": "Door Hunter",
+      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
+      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 8", "Unlocks at level 10"]
+     },
+     "Magdaluo": {
+      "minecraft_name": "Magdaluo",
+      "life": 4,
+      "level": 5,
+      "modifier": "Loot Goblin",
+       "relics": ["Gilded x2 + Companion Challenge x2", "Gilded x2 + Companion Challenge x2", "Unlocks at level 7", "Unlocks at level 9"],
+       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
+     },
+     "Erionasplash": {
+       "minecraft_name": "Erionasplash",
+       "life": 3,
+       "level": 7,
+       "modifier": "Coin Explosion",
+       "relics": ["+", "+", "+", "Unlocks at level 9"],
+       "trails": ["+", "+", "Unlocks at level 10"]
+     }
   }
 }
+
+
+
+
+
+
