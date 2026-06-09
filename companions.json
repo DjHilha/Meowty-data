@@ -15,14 +15,14 @@
     },
     "hilha": {
       "minecraft_name": "Hilha",
-      "pet_name": "d_Luu",
-      "level": 1,
-      "life": 1,
-      "modifier": "the_vault:soul_fest",
+      "pet_name": "Magdaluo",
+      "level": 9,
+      "life": 4,
+      "modifier": "the_vault:loot_goblin",
       "series": "LEGEND",
-      "pet_type": "Minion",
-      "vault_runs": 3,
-      "hatched_date": "2026-06-08",
+      "pet_type": "minion",
+      "vault_runs": 9,
+      "hatched_date": "2026-05-28",
       "relics": [],
       "trails": []
     }
