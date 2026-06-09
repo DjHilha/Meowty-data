@@ -2,10 +2,10 @@
   "viewers": {
     "aslakx": {
       "minecraft_name": "Aslakx",
-      "pet_name": "Stressmonster101",
+      "pet_name": "Isgall85",
       "level": 9,
       "life": 4,
-      "modifier": "the_vault:overpower",
+      "modifier": "the_vault:loot_goblin",
       "series": "LEGEND",
       "pet_type": "minion",
       "vault_runs": 16,
