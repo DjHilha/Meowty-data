@@ -1,5 +1,18 @@
 {
   "viewers": {
+    "aslakx": {
+      "minecraft_name": "Aslakx",
+      "pet_name": "Stressmonster101",
+      "level": 9,
+      "life": 4,
+      "modifier": "the_vault:overpower",
+      "series": "LEGEND",
+      "pet_type": "minion",
+      "vault_runs": 16,
+      "hatched_date": "2026-05-29",
+      "relics": [],
+      "trails": []
+    },
     "halosiapaage": {
       "minecraft_name": "HalosiaPaage",
       "pet_name": "Dylan\u0027s Penguin",
