@@ -5,12 +5,12 @@
       "life": 3,
       "level": 5,
       "modifier": "Loot Goblin",
-      "relics": ["Living x4", "Bonus Wooden", "Bonus Coins x2", "Companion Challenge"],
+      "relics": ["Living x2", "Bonus Gilded", "Accustomed", "Phoenix","Extended", "Companion Challenge"],
       "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
     },
     "HalosiaPaage": {
       "minecraft_name": "HalosiaPaage",
-      "life": 2,
+      "life": 4,
       "level": 9,
       "modifier": "Coin Explosion",
       "relics": ["Gilded x4", "Bonus Living", "Bonus Gilded", "Bonus Coins x7", "Companion Challenge x4"],
@@ -18,7 +18,7 @@
     },
     "LadyLilac84": {
       "minecraft_name": "LadyLilac84",
-      "life": 3,
+      "life": 4,
       "level": 9,
       "modifier": "Totemic",
       "relics": ["Ornate", "Living x2", "Wooden x2", "Wealthy x3", "Bonus Coins x4", "Bonus Wooden", "Companion Challenge x2"],
@@ -26,7 +26,7 @@
     },
     "Grim_Stoner": {
       "minecraft_name": "Grim_Stoner",
-      "life": 2,
+      "life": 5,
       "level": 10,
       "modifier": "Loot Goblin",
       "relics": ["Living x3", "Wooden","Bonus Wooden","Gilded x2", "Wealthy x2", "Bonus Living x6", "Extended", "Plentiful", "Bonus Gilded","Companion Challenge x6"],
@@ -34,7 +34,7 @@
     },
     "QueenofHarts78": {
       "minecraft_name": "QueenofHarts",
-      "life": 4,
+      "life": 5,
       "level": 14,
       "modifier": "Loot Goblin",
       "relics": ["Plentiful x4", "Bonus Ornate x7", "Ornate x2", "Bonus Living x2", "Companion Challenge"],
@@ -42,15 +42,15 @@
     },
     "Rhaw_G": {
       "minecraft_name": "Rhaw_G",
-      "life": 2,
-      "level": 8,
+      "life": 4,
+      "level": 9,
       "modifier": "Rock Solid ",
-      "relics": ["Living x2", "Bonus Living", "Bonus Ornate x2", "Wealthy x5", "Bonus Coins", "Plentiful x2", "Companion Challenge x2"],
+      "relics": ["Living x2", "Bonus Living", "Bonus Ornate x2", "Wealthy x5", "Bonus Coins","Wooden x3", "Plentiful x2", "Companion Challenge x2"],
       "trails": ["+", "+", "Unlocks at level 10"]
     },
     "InfernalHarmony": {
       "minecraft_name": "InfernalHarmony",
-      "life": 0,
+      "life": 1,
       "level": 1,
       "modifier": "Daycare",
       "relics": ["Unlocks at level 2", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
@@ -58,7 +58,7 @@
     },
     "Underligtype": {
       "minecraft_name": "Underlig",
-      "life": 0,
+      "life": 1,
       "level": 3,
       "modifier": "Daycare",
       "relics": ["+", "Unlocks at level 4", "Unlocks at level 7", "Unlocks at level 9"],
@@ -68,39 +68,31 @@
       "minecraft_name": "Aslakx",
       "life": 3,
       "level": 6,
-      "modifier": "Daycare",
-      "relics": ["+", "+", "Unlocks at level 7", "Unlocks at level 9"],
+      "modifier": "Rock Solid",
+      "relics": ["Living", "Ornate","Extended x2","Bonus Living x3", "Unlocks at level 7", "Unlocks at level 9"],
       "trails": ["+", "+", "Unlocks at level 10"]
     },
     "Unkool_Dad": {
       "minecraft_name": "Unkool_Dad",
-      "life": 4,
+      "life": 5,
       "level": 10,
       "modifier": "Ultimate Regeneration",
-      "relics": ["Living x2", "Bonus Ornate x3", "Bonus Coins x2", "Plentiful", "Comapanion Challenge"],
+      "relics": ["Living x2","Bonus Living x5", "Bonus Ornate x3", "Bonus Coins x2", "Plentiful", "Comapanion Challenge"],
       "trails": ["+", "+", "+"]
     },
     "MommyNikki284": {
       "minecraft_name": "MommyNikki284",
-      "life": 2,
+      "life": 3,
       "level": 7,
       "modifier": "Lunar",
       "relics": ["Living", "Bonus Gilded", "Extended x3", "Wealthy x4", "Bonus Coins", "Companion Challenge"],
       "trails": ["+", "+", "Unlocks at level 10"]
     },
-    "Aslakx": {
-      "minecraft_name": "Aslakx",
-      "life": 1,
-      "level": 1,
-      "modifier": "Door Hunter",
-      "relics": ["Unlocks at level 2", "Unlocks at level 5", "Unlocks at level 8", "Unlocks at level 10"],
-      "trails": ["Unlocks at level 3", "Unlocks at level 6", "Unlocks at level 8", "Unlocks at level 10"]
-     },
      "Magdaluo": {
       "minecraft_name": "Magdaluo",
       "life": 4,
       "level": 9,
-      "modifier": "Loot Goblin",
+      "modifier": "Soul Fest",
        "relics": ["Bonus Gilded x2", "Ornate", "Wooden", "Bonus Coins x2", "Companion Challenge"],
        "trails": ["+", "Unlocks at level 6", "Unlocks at level 10"]
      },
@@ -114,8 +106,8 @@
      },
      "Rhaw_G2": {
        "minecraft_name": "Rhaw_G",
-       "life": 2,
-       "level": 7,
+       "life": 4,
+       "level": 8,
        "modifier": "Door Hunter",
        "relics": ["Gilded x4", "Bonus Orante", "Bonus Coins", "Plentiful x2", "Bonus Wooden", "Companion Challenge"],
        "trails": ["+", "+", "Unlocks at level 10"]
